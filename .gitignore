@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Environment
+.env
+client_secret*.json
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Temporary folders
+uploads/
+outputs/
+temp/
+
+# OS
+.DS_Store
+Thumbs.db

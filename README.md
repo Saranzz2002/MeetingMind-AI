@@ -202,7 +202,6 @@ streamlit run app.py
 
 ## 6. Screenshots
 
-_Add screenshots here after running the app locally:_
 
 - `docs/screenshot-login.png` — sign-in screen
 - `docs/screenshot-upload.png` — upload & progress view
